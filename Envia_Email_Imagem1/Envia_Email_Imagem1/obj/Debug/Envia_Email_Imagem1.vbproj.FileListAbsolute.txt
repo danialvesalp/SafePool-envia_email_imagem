@@ -1,0 +1,11 @@
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\bin\Debug\Envia_Email_Imagem1.exe.config
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\bin\Debug\Envia_Email_Imagem1.exe
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\bin\Debug\Envia_Email_Imagem1.pdb
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\bin\Debug\Envia_Email_Imagem1.xml
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.vbprojResolveAssemblyReference.cache
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.Form1.resources
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.Resources.resources
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.vbproj.GenerateResource.Cache
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.exe
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.xml
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email_Imagem1\Envia_Email_Imagem1\obj\Debug\Envia_Email_Imagem1.pdb
